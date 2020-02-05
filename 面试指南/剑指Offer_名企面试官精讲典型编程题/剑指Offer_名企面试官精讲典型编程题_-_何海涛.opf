@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5d7970f-ca3b-4c4e-b21f-76552378a499</dc:identifier>
+        <dc:title>剑指Offer:名企面试官精讲典型编程题</dc:title>
+        <dc:creator opf:file-as="何海涛" opf:role="aut">何海涛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5913e759-a8dd-4b66-bef6-6be5b7e246fd</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;何海涛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-25T14:24:08+00:00" name="calibre:timestamp"/>
+        <meta content="剑指Offer:名企面试官精讲典型编程题" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="剑指Offer_名企面试官精讲典型编程题_-_何海涛.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

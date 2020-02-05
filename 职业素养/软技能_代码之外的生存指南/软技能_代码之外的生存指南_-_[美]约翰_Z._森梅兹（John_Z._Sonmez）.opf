@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">797a34ab-4b17-4276-a301-dd37dbd8458e</dc:identifier>
+        <dc:title>软技能 代码之外的生存指南</dc:title>
+        <dc:creator opf:file-as="Sonmez）, 约翰 Z. 森梅兹（John Z." opf:role="aut">[美]约翰 Z. 森梅兹（John Z. Sonmez）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-30T16:00:00+00:00</dc:date>
+        <dc:description>这是一本真正从“人”（而非技术也非管理）的角度关注软件开发人员自身发展的书。书中论述的内容既涉及生活习惯，又包括思维方式，凸显技术中“人”的因素，全面讲解软件行业从业人员所需知道的所有“软技能”。 本书聚焦于软件开发人员生活的方方面面，从揭秘面试的流程到精耕细作出一份杀手级简历，从创建大受欢迎的博客到打造你的个人品牌，从提高自己工作效率到与如何与“拖延症”做斗争，甚至包括如何投资不动产，如何关注自己的健康。 本书共分为职业篇、自我营销篇、学习篇、生产力篇、理财篇、健身篇、精神篇等七篇，概括了软件行业从业人员所需的“软技能”。通过阅读本书，软件工程人员、编程人员和其他技术人员能够积极思考自己的职业生涯，丰富自己的生活，让自己更接近成功。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01J9MZPPO</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[美]约翰 Z. 森梅兹（John Z. Sonmez）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-25T14:10:42+00:00" name="calibre:timestamp"/>
+        <meta content="软技能 代码之外的生存指南" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="软技能_代码之外的生存指南_-_[美]约翰_Z._森梅兹（John_Z._Sonmez）.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2058</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8c195f3-bdbe-463a-a901-22ca558bb38d</dc:identifier>
+        <dc:title>流畅的Python</dc:title>
+        <dc:creator opf:file-as="Ramalho, Luciano" opf:role="aut">[巴西] Luciano Ramalho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-14T16:00:00+00:00</dc:date>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787115454157</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[巴西] Luciano Ramalho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-26T13:41:33+00:00" name="calibre:timestamp"/>
+        <meta content="流畅的Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="流畅的Python_-_[巴西]_Luciano_Ramalho.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

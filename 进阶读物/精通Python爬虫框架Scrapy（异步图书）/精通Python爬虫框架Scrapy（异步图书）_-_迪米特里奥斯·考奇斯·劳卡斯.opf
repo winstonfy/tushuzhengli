@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ed7233c-4bbc-48d2-8f61-263450c0073b</dc:identifier>
+        <dc:title>精通Python爬虫框架Scrapy（异步图书）</dc:title>
+        <dc:creator opf:file-as="迪米特里奥斯·考奇斯·劳卡斯" opf:role="aut">迪米特里奥斯·考奇斯·劳卡斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-31T16:00:00+00:00</dc:date>
+        <dc:description>Scrapy是使用Python开发的一个快速、高层次的屏幕抓取和Web抓取框架，用于抓Web站点并从页面中提取结构化的数据。本书以Scrapy 1.0版本为基础，讲解了Scrapy的基础知识，以及如何使用Python和三方API提取、整理数据，以满足自己的需求。 本书共11章，其内容涵盖了Scrapy基础知识，理解HTML和XPath，安装Scrapy并爬取一个网站，使用爬虫填充数据库并输出到移动应用中，爬虫的强大功能，将爬虫部署到Scrapinghub云服务器，Scrapy的配置与管理，Scrapy编程，管道秘诀，理解Scrapy性能，使用Scrapyd与实时分析进行分布式爬取。本书附录还提供了各种必备软件的安装与故障排除等内容。 本书适合软件开发人员、数据科学家，以及对自然语言处理和机器学习感兴趣的人阅读。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B079RVP3YC</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Scrapy是使用Python开发的一个快速、高层次的屏幕抓取和Web抓取框架，用于抓Web站点并从页面中提取结构化的数据。本书以Scrapy 1.0版本为基础，讲解了Scrapy的基础知识，以及如何使用Python和三方API提取、整理数据，以满足自己的需求。 本书共11章，其内容涵盖了Scrapy基础知识，理解HTML和XPath，安装Scrapy并爬取一个网站，使用爬虫填充数据库并输出到移动应用中，爬虫的强大功能，将爬虫部署到Scrapinghub云服务器，Scrapy的配置与管理，Scrapy编程，管道秘诀，理解Scrapy性能，使用Scrapyd与实时分析进行分布式爬取。本书附录还提供了各种必备软件的安装与故障排除等内容。 本书适合软件开发人员、数据科学家，以及对自然语言处理和机器学习感兴趣的人阅读。</dc:subject>
+        <meta content="{&quot;迪米特里奥斯·考奇斯·劳卡斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-14T14:24:54+00:00" name="calibre:timestamp"/>
+        <meta content="精通Python爬虫框架Scrapy（异步图书）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="精通Python爬虫框架Scrapy（异步图书）_-_迪米特里奥斯·考奇斯·劳卡斯.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

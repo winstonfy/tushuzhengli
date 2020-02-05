@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc05dfd7-ebb4-4ffa-b90d-e0d1d5757464</dc:identifier>
+        <dc:title>编程之美:微软技术面试心得</dc:title>
+        <dc:creator opf:file-as="电子书免费赠送:行行微信491256034" opf:role="aut">电子书免费赠送:行行微信491256034</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-29T16:00:00+00:00</dc:date>
+        <dc:publisher>电子书免费赠送:行行微信491256034</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d5396417-aecb-4db9-ac3c-e668b34c4513</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>电子书免费赠送:行行微信491256034</dc:subject>
+        <meta content="{&quot;电子书免费赠送:行行微信491256034&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-27T11:06:53+00:00" name="calibre:timestamp"/>
+        <meta content="编程之美:微软技术面试心得" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="编程之美_微软技术面试心得_-_电子书免费赠送_行行微信491256034.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

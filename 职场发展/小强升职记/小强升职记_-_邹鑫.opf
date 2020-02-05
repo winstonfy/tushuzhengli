@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecd846c0-bf8a-4939-9492-0a5b52f02a24</dc:identifier>
+        <dc:title>小强升职记</dc:title>
+        <dc:creator opf:file-as="邹鑫" opf:role="aut">邹鑫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>小强升职记</dc:description>
+        <dc:publisher>COAY.COM</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>小强升职记</dc:subject>
+        <meta content="{&quot;邹鑫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-25T14:12:38+00:00" name="calibre:timestamp"/>
+        <meta content="小强升职记" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="小强升职记_-_邹鑫.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

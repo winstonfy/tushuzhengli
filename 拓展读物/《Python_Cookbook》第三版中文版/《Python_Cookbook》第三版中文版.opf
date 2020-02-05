@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a602945-bf5f-4f73-a70a-ded27f6c288f</dc:identifier>
+        <dc:title>《Python Cookbook》第三版中文版 清晰PDF</dc:title>
+        <dc:creator opf:file-as="www.linuxidc.com" opf:role="aut">www.linuxidc.com</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-29T08:13:05+00:00</dc:date>
+        <dc:description>www.linuxidc.com</dc:description>
+        <dc:language>zh</dc:language>
+        <dc:subject>www.linuxidc.com</dc:subject>
+        <dc:subject>《Python Cookbook》第三版中文版 清晰PDF</dc:subject>
+        <meta content="{&quot;www.linuxidc.com&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-25T13:56:12+00:00" name="calibre:timestamp"/>
+        <meta content="《Python Cookbook》第三版中文版 清晰PDF" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="《Python_Cookbook》第三版中文版_清晰PDF_-_www.linuxidc.com.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

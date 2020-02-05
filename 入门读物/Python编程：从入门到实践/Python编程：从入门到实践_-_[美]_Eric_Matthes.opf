@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4adb0bb5-1ad2-4f5c-9e0e-5ab059ec6678</dc:identifier>
+        <dc:title>Python编程：从入门到实践</dc:title>
+        <dc:creator opf:file-as="Matthes, Eric" opf:role="aut">[美] Eric Matthes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-14T16:00:00+00:00</dc:date>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-7-115-42802-8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;[美] Eric Matthes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-25T14:07:22+00:00" name="calibre:timestamp"/>
+        <meta content="Python编程：从入门到实践" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python编程：从入门到实践_-_[美]_Eric_Matthes.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

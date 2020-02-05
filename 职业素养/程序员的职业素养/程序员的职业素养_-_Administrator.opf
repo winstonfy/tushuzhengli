@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e8e8112-ee2f-4f9e-a53b-e14da4118c2c</dc:identifier>
+        <dc:title>程序员的职业素养</dc:title>
+        <dc:creator opf:file-as="Administrator" opf:role="aut">Administrator</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-24T05:46:18+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;Administrator&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-04T07:33:10+00:00" name="calibre:timestamp"/>
+        <meta content="程序员的职业素养" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="程序员的职业素养_-_Administrator.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

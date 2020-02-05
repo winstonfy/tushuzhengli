@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37eb06f8-7a4a-414f-b890-5cac693fcaad</dc:identifier>
+        <dc:title>Python编程快速上手 让繁琐工作自动化</dc:title>
+        <dc:creator opf:file-as="斯维加特, Al Sweigart" opf:role="aut">[美] Al Sweigart 斯维加特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-30T16:00:00+00:00</dc:date>
+        <dc:description>如今，人们面临的大多数任务都可以通过编写计算机软件来完成。Python是一种解释型、面向对象、动态数据类型的高级程序设计语言。通过Python编程，我们能够解决现实生活中的很多任务。 本书是一本面向实践的Python编程实用指南。本书的目的，不仅是介绍Python语言的基础知识，而且还通过项目实践教会读者如何应用这些知识和技能。本书的第一部分介绍了基本的Python编程概念，第二部分介绍了一些不同的任务，通过编写Python程序，可以让计算机自动完成它们。第二部分的每一章都有一些项目程序，供读者学习。每章的末尾还提供了一些习题和深入的实践项目，帮助读者巩固所学的知识。附录部分提供了所有习题的解答。 本书适合任何想要通过Python学习编程的读者，尤其适合缺乏编程基础的初学者。通过阅读本书，读者将能利用最强大的编程语言和工具，并且将体会到Python编程的快乐。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">05d66beb-7850-46e5-84aa-6d34579f0fba</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[美] Al Sweigart 斯维加特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-25T13:56:00+00:00" name="calibre:timestamp"/>
+        <meta content="Python编程快速上手 让繁琐工作自动化" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python编程快速上手_让繁琐工作自动化_-_[美]_Al_Sweigart_斯维加特.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
